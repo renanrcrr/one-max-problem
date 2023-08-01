@@ -1,4 +1,4 @@
-In this code, I have implemented a Genetic Algorithm to solve the "One Max Problem". 
+# Genetic Algorithm to solve the "One Max Problem". 
 
 The algorithm creates an initial population of random binary sequences and evolves these sequences over several generations using selection, crossover, and mutation to find a sequence with the highest number of "1s".
 
